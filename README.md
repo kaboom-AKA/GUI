@@ -1,0 +1,1 @@
+This repository contains various projects and experiments where I explore and learn different features of Python programming using the Tkinter library.
